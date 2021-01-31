@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/basketball">
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -26,7 +27,7 @@
                 android:paddingTop="20dp"
                 android:paddingBottom="20dp"
                 android:text="Team A"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="20sp" />
 
             <TextView
@@ -36,7 +37,7 @@
                 android:gravity="center"
                 android:paddingBottom="20dp"
                 android:text="0"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="100sp" />
 
             <Button
@@ -87,7 +88,7 @@
                 android:paddingTop="20dp"
                 android:paddingBottom="20dp"
                 android:text="Team B"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="20sp" />
 
             <TextView
@@ -97,7 +98,7 @@
                 android:gravity="center"
                 android:paddingBottom="20dp"
                 android:text="0"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="100sp" />
 
             <Button
